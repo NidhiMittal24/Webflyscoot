@@ -3,7 +3,7 @@ Feature: Flyscoot
   Scenario Outline: Make booking
     Given Open the browser
     And Enter the URL
-    And Select the flight detail "<flighttype>"
+    And Select the flight details "<flighttype>"
     When Enter the origin "<origin>" and  destination "<destination>"
     And Enter the date of booking "<date>" 
     And Selct number od travellers 
