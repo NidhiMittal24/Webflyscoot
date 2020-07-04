@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="Flyscoot" name="Make booking" time="0">
+<system-out><![CDATA[Given Open the browser......................................................skipped
+And Enter the URL...........................................................skipped
+When Enter the origin "SIN" and  destination "KUL"..........................skipped
+And Enter the date of booking "20 August 2020" and click on search..........skipped
+And Select the flight.......................................................skipped
+And Click on next page button...............................................skipped
+Then Keen title "Ms" , first name "Nidhi" , last name "Mittal" , DOB "1-1-1992" ,nationality "India" ,.skipped
+And Click on continue payment button........................................skipped
+And Enter contact details...................................................skipped
+And Keen streetaddress "test address", country "India", city "Karnataka", postal "Karnataka",.skipped
+And Select payment method cardnumber "5149000000000001", expirationdate "01-21", cardholdername "Test", ccv "123".skipped
+]]></system-out>
+</testcase>
+</testsuite>
