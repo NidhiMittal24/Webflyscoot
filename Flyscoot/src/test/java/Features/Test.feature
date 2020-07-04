@@ -22,9 +22,9 @@ Feature: Flyscoot
       | SIN    | KUL         | 20 August 2020 | Ms    | Nidhi     | Mittal   | 1-1-1992 | India       | test address  | India   | Karnataka | Karnataka | 5149000000000001 | 01-21          | Test           | 123 |
 
       
-  Scenario Outline: Make new booking with multiple passengers
-  Given Open the browser
-  And Enter the URL
-  When Enter the origin "<origin>" and  destination "<destination>" click on search
+  #Scenario Outline: Make new booking with multiple passengers
+  #Given Open the browser
+  #And Enter the URL
+  #When Enter the origin "<origin>" and  destination "<destination>" click on search
   
   
