@@ -6,7 +6,7 @@ Feature: Flyscoot
     And Select the flight details "<flighttype>"
     When Enter the origin "<origin>" and  destination "<destination>"
     And Enter the date of booking "<date>" 
-    And Selct number od travellers 
+    And Select number of travellers adult "<adult>", child "<child>", infant "<infant>"
     And click on search
     And Select the flight
     And Click on next page button
